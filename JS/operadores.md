@@ -18,6 +18,6 @@ console.log("7 / 3 = " + 7 / 3);
 
 ```js
 var x = 3;
-console.log("x = " + x)
-console.log("x += 1")
+console.log("x = " + x);
+console.log("x += ");
 ```
